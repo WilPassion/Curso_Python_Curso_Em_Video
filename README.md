@@ -18,4 +18,3 @@ Exercícios desenvolvidos:
 Conteúdo desenvolvido:
 
 Aula 6 – Tipos Primitivos e Saída de Dados
-Aula 7 – Operadores Aritméticos
