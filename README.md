@@ -15,6 +15,7 @@ Exercícios desenvolvidos:
 
 * desafio04 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possível sobre ela.
 
-Conteúdo desenvolvido:
+Conteúdo desenvolvido  - Aulas:
 
 Aula 6 – Tipos Primitivos e Saída de Dados
+Aula 7 – Operadores Aritméticos
