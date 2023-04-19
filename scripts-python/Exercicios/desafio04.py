@@ -1,3 +1,5 @@
+#desafio04 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possível sobre ela.
+
 a = input('Type something: ')
 
 print('The primitive type is', type(a))

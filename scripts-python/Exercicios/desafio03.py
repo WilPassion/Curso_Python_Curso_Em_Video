@@ -1,3 +1,5 @@
+#desafio03 - Crie um script Python que leia dois números e tente mostrar a soma entre eles.
+
 n1 = int(input('Digite um valor: '))
 n2 = int(input('Digite um outro: '))
 s = n1 + n2

@@ -1,3 +1,5 @@
+#desafio09 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
 print('====== TABUADA ====== \n')
 
 tabuada = int(input('Você deseja a tabuada de qual número? '))
