@@ -7,6 +7,8 @@ cont = 0
 
 while(cont < 10):
     cont = cont + 1
-    print('{} x {} = {}'.format(tabuada, cont, (tabuada * cont)))
+    print('{}{} x {} = {}'.format('\033[1;31;40m', tabuada, cont, (tabuada * cont)))
+
+
 
 
